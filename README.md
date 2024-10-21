@@ -60,8 +60,8 @@ docker run -it -e VANA_PRIVATE_KEY=${VANA_PRIVATE_KEY} volara/miner
 
 ![Screenshot_440](https://github.com/user-attachments/assets/ec6d6d71-f5ba-4f9b-b4d1-a80ceb57cfed)
 
-To minimize screen: `Ctrl + A + D`
-To return screenL: `screen -r volara`
+* To minimize screen: `Ctrl + A + D`
+* To return screen: `screen -r volara`
 
 ## Check Miner Points
 After a while, You will see your points updating in [Volara Dashboard](https://volara.xyz/)
