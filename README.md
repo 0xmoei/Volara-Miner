@@ -46,7 +46,7 @@ export VANA_PRIVATE_KEY=PVKEY
 docker run -it -e VANA_PRIVATE_KEY=${VANA_PRIVATE_KEY} volara/miner
 ```
 
-3. Copy the link, Open it in browser, Login your Gmail, Copy the given code and paste it in Terminal
+3. Copy the link, Open it in browser, Login your gmail, Copy the given code and paste it in terminal
 
 ![Screenshot_442](https://github.com/user-attachments/assets/a7eea536-cc75-47d3-88c0-64799192d0fa)
 
