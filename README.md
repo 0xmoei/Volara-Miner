@@ -52,7 +52,7 @@ docker run -it -e VANA_PRIVATE_KEY=${VANA_PRIVATE_KEY} volara/miner
 
 ![Screenshot_443](https://github.com/user-attachments/assets/0a2e19ed-f621-42db-9732-58017703e3be)
 
-4. Fill your Twitter username and password (I removed 2Auth factor for it)
+4. Fill your X username and password (I removed 2FA for X)
 
 ![Screenshot_439](https://github.com/user-attachments/assets/03411043-fcf6-4ba9-82fb-72f17783e85b)
 
